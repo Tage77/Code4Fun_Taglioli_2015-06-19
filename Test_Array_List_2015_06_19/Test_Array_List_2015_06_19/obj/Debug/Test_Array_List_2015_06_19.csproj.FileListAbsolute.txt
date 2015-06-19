@@ -1,0 +1,7 @@
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\bin\Debug\Test_Array_List_2015_06_19.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\bin\Debug\Test_Array_List_2015_06_19.pdb
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\bin\Debug\nunit.framework.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\bin\Debug\nunit.framework.xml
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\obj\Debug\Test_Array_List_2015_06_19.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\obj\Debug\Test_Array_List_2015_06_19.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-19\Test_Array_List_2015_06_19\Test_Array_List_2015_06_19\obj\Debug\Test_Array_List_2015_06_19.pdb
